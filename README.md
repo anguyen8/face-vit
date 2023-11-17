@@ -2,6 +2,9 @@
 
 `Official Implementation` for the paper [Fast and Interpretable Face Identification for Out-Of-Distribution Data Using Vision Transformers](https://arxiv.org/abs/2311.02803) (WACV 2023) by Hai Phan, Cindy Le, Vu Le, Yihui He, and Anh Nguyen.
 
+![](figs/framework.png) 
+![](figs/results.png) 
+
 **If you use this software, please consider citing:**
 
     @article{hai2023facevit,
