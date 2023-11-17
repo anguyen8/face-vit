@@ -29,15 +29,16 @@ pip install wandb
 ## 2. Download datasets and pretrained models
 
 1. Download LFW, _out-of-distribution_ (OOD) LFW test sets: [Google Drive](https://drive.google.com/drive/folders/1hoyO7IWaIx2Km-pe4-Sn2D_uTFNLC7Ph?usp=sharing)
+2. Download CASIA for training: [Here](https://github.com/yule-li/CosFace/blob/master/README.md)
 
-2. Download pretrained models:
+3. Download pretrained models:
    - [Backbones](https://drive.google.com/drive/folders/1hr77R4rRFFsO8AnSD0kQ5Do7jGf0bc4P?usp=sharing)
    - [ViT-Face](https://drive.google.com/drive/folders/1ZYHbe0Sc50HQEEXthX3wus-Vg8SGiK1l?usp=sharing)
    - [ViT-P8S8](https://drive.google.com/drive/folders/1LEshPNCEP0IGbYGXzkxNP2Tp2SUAKGzD?usp=sharing)
 
-3. Download arranged pairs: [Google Drive](https://drive.google.com/drive/folders/1NRuKRQAvHECFvmZW-sDBQSy0t0LsaLCI?usp=sharing)
+4. Download arranged pairs: [Google Drive](https://drive.google.com/drive/folders/1NRuKRQAvHECFvmZW-sDBQSy0t0LsaLCI?usp=sharing)
    
-4. Create the following folders:
+5. Create the following folders:
 
 ```
 mkdir results
