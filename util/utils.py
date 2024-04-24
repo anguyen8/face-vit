@@ -369,7 +369,7 @@ def perform_val_color_images_hybrid_vit(multi_gpu, device, embedding_size, batch
     if target == 'lfw':
         pair_list = 'lfw_test_pair.txt'
         data_root = '/home/hai/workspace/InsightFace-v2/data/lfw_crop_112'
-    if target == 'glfw':
+    elif target == 'glfw':
         pair_list = 'glfw_test_pair.txt'
         data_root = '/home/hai/workspace/lfw-align-128-glass'
     elif target == 'talfw':
